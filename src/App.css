@@ -1,0 +1,14 @@
+@font-face {
+  font-family: customFont;
+  src: url(./fonts/bigelowRules.ttf);
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: customFont;
+  font-size: 72px;
+  color: #0ccac4;
+}
